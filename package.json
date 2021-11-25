@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "command": "0.0.5",
+    "config": "^3.3.3",
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^4.9.1"
+  }
+}
